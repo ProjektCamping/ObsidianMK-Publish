@@ -33,7 +33,7 @@ Devisen können in allen größeren Städten problemlos getauscht werden. Die in
 >[!WARNING] checken vor Abflug
 
 - Stand: [[2022-11-19-Saturday]]
-	- Für die Einreise ist entweder ein Nachweis über die ==vollständige COVID-19-Impfung ==oder ein negativer PCR-Test erforderlich. 
+	- Für die Einreise ist entweder ein Nachweis über die ==vollständige COVID-19-Impfung== oder ein negativer PCR-Test erforderlich. 
 	- Als vollständig geimpft gelten alle Reisenden 14 Tage nach der letzten notwendigen Impfung gemäß den WHO-Richtlinien für vollständigen Impfschutz. ==Der Impfnachweis (in Englisch) ist mitzuführen.==
 >[!INFO]
 >Es gelten weiterhin Abstands- und Hygieneregeln sowie die Pflicht zum Tragen eines Mund-Nasen-Schutzes im öffentlichen Raum.
