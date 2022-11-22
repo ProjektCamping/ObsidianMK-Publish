@@ -114,12 +114,13 @@ Liste:
 >
 >Looking forward to your respond.
 
-  >[!note]+ [[2022-11-19-Saturday]] inEmail
-  >Dear Simon,
+
+>[!note]+ [[2022-11-19-Saturday]] inEmail
+>Dear Simon,
 >
 >Before I send you a program, I would like to know the exact time you are landing at Kathmandu airport.  Please would you mind sending me your flight details so that i can arrange one day or few hours for taking your permit for trekking? For that, I need an original passport for taking permit within office hour here in Nepal.
 >
- > 
+> 
 >Best regards,
 >Sajan
 
@@ -147,6 +148,7 @@ Liste:
 |                 |               |                           |
 
 ##### Optionen
+Wir können uns überlegen welche Option uns besser passt. 
 > [!info] 13 days manaslu circuit trek  
 >day1) ktm to sothikhola( 700m ) via aarughat (7-8)hour drive (pravite jeep) (140km)  
 >day 2) sothikhola to machhakhola(920m) (5 hour) 14km  
@@ -164,11 +166,6 @@ Liste:
 >*dharapani to besishar ( public jeep )  
 >*besishar to kathmandu pravite transfer  
   
-including  
-* all entry permit (MCAP/ACAP/TIMS/ sepical permit )  
-* pravite tra
-
-
 >[!info] 15 days manaslu circuit trek  
 >day 1) ktm to sothikhola( 700m ) via aarughat (7-8)hour drive (pravite jeep) (140km)  
 >day 2) sothikhola to machhakhola(920m) (5 hour) 14km  
@@ -215,9 +212,9 @@ Basically when I booked the trip I booked with full plan
 >
 
 ### Gepäck
-
+Eine Liste an Dingen die mitzunehmen sind. 
 - [ ] Hand-Desinfektion
-- [ ] 
+
 
 
 ### Kaufen
@@ -227,6 +224,7 @@ Basically when I booked the trip I booked with full plan
 ## Routen
 ### Manaslu Circuit
 #### Steckbrief der Route
+...
 #### Streckenverlauf
 ##### Etappen
 Nachstehend ein Auszug aus von https://www.letstripnepal.com/tour/manaslu-circuit-trek/
@@ -242,172 +240,126 @@ ___
 ___
 
 ###### Day 2Trek Soti Khola to Machha Khola (930m)
-
 Today the trekking trail from Soti Khola to Machha Khola will be quite rocky and narrow. The journey begins by crossing a bridge before you trek through the Sal forest. Then you climb onto a ridge above Budhi Gandaki River. You reach Khursane after passing through two tropical waterfalls on a steep and rocky trail. You further descend and pass through a few rice paddies and reach beautiful Gurung village, Labubesi. Further, you climb behind a rocky outcrop and see the valley opening up next to the river. You descend to the river shore and walk through gravel stones. You cross a suspension bridge and reach Machha Khola.
-
 ___
-
 **Distance:** 14 km  
 **Time Taken:** 6 hours trek  
 **Meal Plan:** Breakfast, Lunch & Dinner  
 **Overnight:** Machha Khola  
 **Accommodation:** Basic Lodge
-
 ___
 
 ###### Day 3Trek Machha Khola to Jagat (1,340m)
-
 After breakfast, your trek begins to Jagat. The trail goes through the gorge and continues along the river. The trail is narrow and goes gentle ups and downs. You cross Tharo Khola before reaching Khorla Besi. Khorla Besi is a small Gurung village from where you can see beautiful views of Manaslu. From Khorla Besi, you have to take the steep climb and reach Tatopani; Hot Spring. You again climb up another ridge and cross Budhi Gandaki River on a suspension bridge. Then you reach Dovan. From Dovan, you cross another suspension bridge over the Yaru Khola. You climb the stone staircase and approach Tharo Bharyang. Finally, you cross Budhi Gandaki River, walk over the ridge and climb to Jagat. From Jagat, the restricted area trekking begins.
-
 ___
-
 **Distance:** 22 km  
 **Time Taken:** 7 hours trek  
 **Meal Plan:** Breakfast, Lunch & Dinner  
 **Overnight:** Jagat  
 **Accommodation:** Basic Lodge
-
 ___
 
 ###### Day 4Trek Jagat to Deng (1,860m)
-
 After breakfast at Jagat, your trek begins climbing over the rocky ridge to Salleri. From here, you descend to Sardibas. The trail gets a little widen as you walk to Ghatte Khola. Continue walking upstream to a long suspension bridge and reach Philim. It is a large Gurung village with a pleasant view of the naturalness. The trail turns north and traverses terraced fields to Ekle Bhatti. You enter to a steep, deserted gorge and descend to the grassy land slope. Keep crossing Budhi Gandaki River for some time. The wide trail goes through a bamboo forest to Deng Khola. Upon crossing the khola, you reach Deng, a tiny village. Today, you trek through various landscapes and sub-tropical forests. On the way, you traverse to various remote villages and small rivers.
-
 ___
-
 **Distance:** 19 km  
 **Time Taken:** 7 hours trek  
 **Meal Plan:** Breakfast, Lunch & Dinner  
 **Overnight:** Deng  
 **Accommodation:** Basic Lodge
-
 ___
 
 ###### Day 5Trek Deng to Namrung (2,630m)
-
 After breakfast, you walk through a forest and cross the Budhi Gandaki River. You climb to Rana and the further climb will take you to Bhi. The trail goes to the west of Budhi Gandaki valley which traverses through forests and mani. Then you approach Prok village. There is a viewpoint from where you can see Siring Himal. We pass through various villages and several gompas. You follow the upstream trail and traverse the dense forest. Crossing river, the trail enter to narrow gorge. You continue the pleasant walk and the final steep climb takes you to Namrung. Namrung is a lovely village where you get a glimpse of life and culture. You get a good view of Siring and Ganesh Himal.
-
 ___
-
 **Distance:** 19 km  
 **Time Taken:** 7-8 hours trek  
 **Meal Plan:** Breakfast, Lunch & Dinner  
 **Overnight:** Namrung  
 **Accommodation:** Basic Lodge
-
 ___
 
 ###### Day 6Trek Namrung to Samagaon (3,530m)
-
 Namrung is a good viewpoint for Siring, Ganesh Himal & Himal Chuli to the south. Take a stroll around the village and enjoy the view. After breakfast, you climb and pass through forests and reach Lihi, a fine village. There are many chortens and barley terraces. The trail drops and crosses the Simnang Himal Valley. You pass through Sho, Lho and Shyala village before reaching Samagaon. On the way, you can see Mt Manaslu, Himal Chuli, Ganesh Himal and Peak 29. You can also explore Ribung Gompa, a Buddhist monastery at Lho village.
-
 ___
-
 **Distance:** 18 km  
 **Time Taken:** 7 hours trek  
 **Meal Plan:** Breakfast, Lunch & Dinner  
 **Overnight:** Samagaon  
 **Accommodation:** Basic Lodge
-
 ___
 
 ###### Day 7Acclimatization Day
-
 Today is acclimatization day at Samagaon. You sleep, relax and take a break from week-long tiresome walk. You acclimatized your body from altitude-related illness. Have your breakfast and enjoy your free day.
 
 For those who want to explore, there is an optional day hike. You explore the Sherpa village and the Sherpa culture. You can find thousands of mani stones with Buddhist mantra & pictures inscribed. You see Sherpa women on their traditional attire with ornaments. There is a Pungyen Gompa, an old gompa nearby Samagaon. You find a great view of the glacier from here.
-
 ___
 
 **Meal Plan:** Breakfast, Lunch & Dinner  
 **Overnight:** Samagaon  
 **Accommodation:** Basic Lodge
-
 ___
 
 ###### Day 8Trek Samagaon to Samdo (3,865m)
-
 Today, you descend to Budhi Gandaki River and continue the trail. The trail gets widen and you pass through several mani walls. You will have an amazing mountain view as you get closer to the Tibetan border. The trek is easy with great views. You traverse through Juniper and birch forest in Kermo Kharka. Drop down and cross Budhi Gandaki River. You keep walking until you find Samdo Village. The village is near to Tibet. You might find Yak Caravan with loads coming from Tibet. Visit local villages and enjoy your time at Samdo.
-
 ___
-
 **Distance:** 16 km  
 **Time Taken:** 4 hours trek  
 **Meal Plan:** Breakfast, Lunch & Dinner  
 **Overnight:** Samdo  
 **Accommodation:** Basic Lodge
-
 ___
 
 ###### Day 9Trek Samdo to Dharmsala/Larke Phedi (4460m)
-
 After breakfast, you walk through Larke Bazaar, a seasonal Tibetan market. Then, you descend to Budhi Gandaki River. You cross the wooden bridge and climb up crossing two streams. You can see Larke Glacier before you head around the Salka Khola Valley. You climb uphill and see a stone house/shelter house which is Dharmasala. It is not a lodge for guests. Dharmasala is also known as Larke Phedi. On the way, you will see many Buddhist traditional monasteries and amazing landscapes. Upon reaching Dharmasala, take rest and acclimatize.
-
 ___
-
 **Distance:** 11 km  
 **Time Taken:** 4 hours trek  
 **Meal Plan:** Breakfast, Lunch & Dinner  
 **Overnight:** Dharmasala/Larke Phedi  
 **Accommodation:** Basic Lodge
-
 ___
 
 ###### Day 10Trek Dharmasala to Bhimtang (3,590m) via Larke La Pass (5,160m)
-
 Today is the most challenging day of the trek. You pass through remote villages, beautiful valleys, and landscapes. You will see amazing glacier lakes, a wide range of flora & fauna and mountains. After early breakfast, the short climb takes you to the valley on the north side of the Larke Glacier. From here, you can enjoy the views of Cho Danda and Larke Peak. You walk across moraine of the glacier. The trail starts to get steeper until you reach the pass. Larke La is the highest point in the Manaslu Circuit Trek. The panoramic view of Himlung Himal, Cheo Himal & Annapurna II is outstanding from the pass. While descending to Bimthang, you can see huge icefalls and mountains.
-
 ___
-
 **Distance:** 25 km  
 **Time Taken:** 8-10 hours trek  
 **Meal Plan:** Breakfast, Lunch & Dinner  
 **Overnight:** Bhimthang  
 **Accommodation:** Basic Lodge
-
 ___
 
 ###### Day 11Trek Bhimthang to Tiliche (2,300m)
-
 After breakfast in Bimthang, you walk to the nearby ridge. From there, you can enjoy great views of Manaslu, Lamjung Himal, Himlung Himal, and Cheo Himal. You descend the ridge and cross a high pasture (Sangure Kharka). Cross the bridge over Dudh Khola and walk through the rhododendron forest. You follow a trail through a narrow valley until you reach the highest cultivated land at Karche. Take a steep climb over a ridge and a short walk takes you Gho Village. You continue to walk until you reach Tiliche.
-
 ___
-
 **Distance:** 16 km  
 **Time Taken:** 6-7 hours trek  
 **Meal Plan:** Breakfast, Lunch & Dinner  
 **Overnight:** Tiliche  
 **Accommodation:** Basic Lodge
-
 ___
 
 ###### Day 12Trek Tiliche to Chyamche (1,430m)
-
 Today is the final day of your trek. You climb over a small ridge and rapidly descend to Chyamche. You cross the Dudh Khola and climb a stupa-shaped arch and reach Thonje Village. You continue to walk to Dharapani where your Manaslu Circuit Trek ends. From here, you enter to Annapurna Conservation Area. You pass through the forest until you reach well trodden trail of Annapurna Circuit. You trek to Chyamche passing through Marshyangdi River Valley. Enjoy for the successful completion of Manaslu Circuit Trek.
-
 ___
-
 **Distance:** 17 km  
 **Time Taken:** 8 hours trek  
 **Meal Plan:** Breakfast, Lunch & Dinner  
 **Overnight:** Chyamche  
 **Accommodation:** Basic Lodge
-
 ___
 
 ###### Day 13Drive Chyamche to Kathmandu
-
 Drive Chyamche to Kathmandu via Besisahar. You will be driving along the banks’ fo Marshyandi & Trishuli Rivers. You drive by some beautiful villages and enjoy hills & mountainscapes. You will arrive late evening and escorted to the hotel. To celebrate the successful completion of the journey, you will have a farewell dinner.
-
 ___
-
 **Distance:** 212 km  
 **Time Taken:** 8-10 hours trek  
 **Transfer:** 4WD  
 **Meal Plan:** Breakfast, Lunch & Dinner  
 **Overnight:** Kathmandu  
 **Accommodation:** Hotel Shreesu or similar
-
+___
 
 #### Linksammlung
 
