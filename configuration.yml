@@ -3,9 +3,9 @@ default:
     input: /docs_tests/input
     output: ./docs_tests/output
   frontmatter:
-    category:
+    category: toUpload
       default value: notes
-      key: category
+      key: toUpload
     index: (i)
     share: share
   weblink: cc
