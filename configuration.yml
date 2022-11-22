@@ -5,7 +5,7 @@ default:
   frontmatter:
     category: toUpload
       default value: notes
-      key: toUpload
+      key: true
     index: (i)
     share: share
   weblink: cc
