@@ -1,6 +1,6 @@
 site_name: Basislager
 site_description: A squirrel needs a NUT
-site_url: https://change_me.io/
+site_url: https://projektcamping.github.io/ObsidianMK-Publish/
 
 theme:
     name: 'material'
