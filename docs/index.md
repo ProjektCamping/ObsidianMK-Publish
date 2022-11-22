@@ -1,3 +1,5 @@
+# Nepal 2023
+
 Tags: #Reise #Nepal
 
 > [!TIP] Reisezeit
@@ -34,7 +36,7 @@ Devisen können in allen größeren Städten problemlos getauscht werden. Die in
 	- Für die Einreise ist entweder ein Nachweis über die ==vollständige COVID-19-Impfung ==oder ein negativer PCR-Test erforderlich. 
 	- Als vollständig geimpft gelten alle Reisenden 14 Tage nach der letzten notwendigen Impfung gemäß den WHO-Richtlinien für vollständigen Impfschutz. ==Der Impfnachweis (in Englisch) ist mitzuführen.==
 >[!INFO]
-Es gelten weiterhin Abstands- und Hygieneregeln sowie die Pflicht zum Tragen eines Mund-Nasen-Schutzes im öffentlichen Raum.
+>Es gelten weiterhin Abstands- und Hygieneregeln sowie die Pflicht zum Tragen eines Mund-Nasen-Schutzes im öffentlichen Raum.
 
 ### Gesundheit
 #### Dengue-Fieber
@@ -91,7 +93,7 @@ Liste:
 >
 >After I get all other information, I will send you a price offer and your program here in Nepal.
 >
-Hoping to get response from you soon. 
+>Hoping to get response from you soon. 
 >
 >Thanks and best regards,
 >
@@ -100,26 +102,26 @@ Hoping to get response from you soon. 
 >[!note]+ [[2022-11-19-Saturday]] outEmail
 >Hallo Sajan, 
 >
-Thank you for the very fast respond. 
-So in the following I gonna answer you the questions. 
-For the rooms question we are very easy and flexible. So to say it in simple words: we don’t need single rooms and also no deluxe. So I’d say we would go for the most affordable/easy option in that case. Just let us know what makes the most sense out of your perspective. 
+>Thank you for the very fast respond. 
+>So in the following I gonna answer you the questions. 
+>For the rooms question we are very easy and flexible. So to say it in simple words: we don’t need single rooms and also no deluxe. So I’d say we would go for the most affordable/easy option in that case. Just let us know what makes the most sense out of your perspective. 
 >
-So our plane is leaving again on 16.04.. If possible we would like to the the hike at the beginning to have at the end some days just to travel a little around. 
+>So our plane is leaving again on 16.04.. If possible we would like to the the hike at the beginning to have at the end some days just to travel a little around. 
 >
-We should be able to carry our backpacks (+some extra?) by our owns. Pending on the availability of food and water on the track I think we then do not need any additional porters. 
+>We should be able to carry our backpacks (+some extra?) by our owns. Pending on the availability of food and water on the track I think we then do not need any additional porters. 
 >
-  Thanks!
+>Thanks!
 >
-Looking forward to your respond.
+>Looking forward to your respond.
 
   >[!note]+ [[2022-11-19-Saturday]] inEmail
   >Dear Simon,
 >
-Before I send you a program, I would like to know the exact time you are landing at Kathmandu airport.  Please would you mind sending me your flight details so that i can arrange one day or few hours for taking your permit for trekking? For that, I need an original passport for taking permit within office hour here in Nepal.
+>Before I send you a program, I would like to know the exact time you are landing at Kathmandu airport.  Please would you mind sending me your flight details so that i can arrange one day or few hours for taking your permit for trekking? For that, I need an original passport for taking permit within office hour here in Nepal.
 >
-  >
-Best regards,
-Sajan
+ > 
+>Best regards,
+>Sajan
 
 >[!note]+ [[2022-11-21-Monday]] outEmail
 >
@@ -127,11 +129,11 @@ Sajan
 >Thank you so much that you are responding so fast. Before we fix that program with you, I would like to have an overview about the tour and the cost for the guiding. I would like to discuss that together with my traveling partners. So I would really like to receive first of all deeper informations from you. 
 >
   >
-I am looking forward to your answer. 
+>I am looking forward to your answer. 
 >
-All the best
+>All the best
 >
-Simon  
+>Simon  
 
 
 #### Lets trip Nepal
@@ -147,20 +149,20 @@ Simon
 ##### Optionen
 > [!info] 13 days manaslu circuit trek  
 >day1) ktm to sothikhola( 700m ) via aarughat (7-8)hour drive (pravite jeep) (140km)  
-day 2) sothikhola to machhakhola(920m) (5 hour) 14km  
-day3) macchakhola to jagat (1340m) (7 hours ) 22 km  
-day 4) jagat to deng (1860 m) 19km  
-day 5) deng to namrung (2630m) (6 hours ) 19km  
-day 6 ) namrung to syala (3500m(6-7hours)  
-day 7) early morning wake up and trek to punging gumpa 2 hours enjoying view and heding to sama gau (3530m) 2 hours  
-day 8 ) rest day  
-day 9) samagaun to samdo (3865m)(3-4 hours ) yak hotel  
-day 10) samdo to dharmasala(4460m)( 4-5 hours )  
-day 11) dharmasala to bhimthang (3590m)(8-9 hours ) via larke pass(5106m) ( punker hotel cottage )  
-day 12 ) bhimthang to tilje (2300m) (6-7 hours) 16 km  
-day 13) tilje to dharapani (1:30 hours trek) and besishar by jeep and back to kathmandu  
-*dharapani to besishar ( public jeep )  
-*besishar to kathmandu pravite transfer  
+>day 2) sothikhola to machhakhola(920m) (5 hour) 14km  
+>day3) macchakhola to jagat (1340m) (7 hours ) 22 km  
+>day 4) jagat to deng (1860 m) 19km  
+>day 5) deng to namrung (2630m) (6 hours ) 19km  
+>day 6 ) namrung to syala (3500m(6-7hours)  
+>day 7) early morning wake up and trek to punging gumpa 2 hours enjoying view and heding to sama gau (3530m) 2 hours  
+>day 8 ) rest day  
+>day 9) samagaun to samdo (3865m)(3-4 hours ) yak hotel  
+>day 10) samdo to dharmasala(4460m)( 4-5 hours )  
+>day 11) dharmasala to bhimthang (3590m)(8-9 hours ) via larke pass(5106m) ( punker hotel cottage )  
+>day 12 ) bhimthang to tilje (2300m) (6-7 hours) 16 km  
+>day 13) tilje to dharapani (1:30 hours trek) and besishar by jeep and back to kathmandu  
+>*dharapani to besishar ( public jeep )  
+>*besishar to kathmandu pravite transfer  
   
 including  
 * all entry permit (MCAP/ACAP/TIMS/ sepical permit )  
@@ -168,25 +170,24 @@ including
 
 
 >[!info] 15 days manaslu circuit trek  
-day 1) ktm to sothikhola( 700m ) via aarughat (7-8)hour drive (pravite jeep) (140km)  
-day 2) sothikhola to machhakhola(920m) (5 hour) 14km  
-day 3) macchakhola to jagat (1340m) (7 hours ) 22 km  
-day 4) jagat to deng (1860 m) 19km  
-day 5) deng to namrung (2630m) (6 hours ) 19km  
-day 6 ) namrung to syala (3500m(6-7hours)  
-day 7) early morning wake up and trek to punging gumpa 2 hours enjoying view and heding to sama gau (3530m) 2 hours  
-day 8 ) rest day  
-day 9) samagaun to samdo (3865m)(3-4 hours ) yak hotel  
-day 10) samdo to dharmasala(4460m)( 4-5 hours )  
-day 11) dharmasala to bhimthang (3590m)(8-9 hours ) via larke pass(5106m) ( punker hotel cottage )  
-day 12 ) bhimthang to tilje (2300m) (6-7 hours) 16 km  
-day 13) tilje to tal ( 4-5 hours)  
-day14) tal to syage (4 hours)  
-day 15 ) syage to besishar by jeep and back to kathmandu  
-*syage to besishar ( public jeep )  
-*besishar to kathmandu pravite transfer  
-including
-* all entry permit (MCAP/ACAP/TIMS/ s
+>day 1) ktm to sothikhola( 700m ) via aarughat (7-8)hour drive (pravite jeep) (140km)  
+>day 2) sothikhola to machhakhola(920m) (5 hour) 14km  
+>day 3) macchakhola to jagat (1340m) (7 hours ) 22 km  
+>day 4) jagat to deng (1860 m) 19km  
+>day 5) deng to namrung (2630m) (6 hours ) 19km  
+>day 6 ) namrung to syala (3500m(6-7hours)  
+>day 7) early morning wake up and trek to punging gumpa 2 hours enjoying view and heding to sama gau (3530m) 2 hours  
+>day 8 ) rest day  
+>day 9) samagaun to samdo (3865m)(3-4 hours ) yak hotel  
+>day 10) samdo to dharmasala(4460m)( 4-5 hours )  
+>day 11) dharmasala to bhimthang (3590m)(8-9 hours ) via larke pass(5106m) ( punker hotel cottage )  
+>day 12 ) bhimthang to tilje (2300m) (6-7 hours) 16 km  
+>day 13) tilje to tal ( 4-5 hours)  
+>day14) tal to syage (4 hours)  
+>day 15 ) syage to besishar by jeep and back to kathmandu  
+>*syage to besishar ( public jeep )  
+>*besishar to kathmandu pravite transfer  
+> including * all entry permit (MCAP/ACAP/TIMS/ s
 
 ##### Service
 
