@@ -4,7 +4,7 @@ site_url: https://projektcamping.io/ObsidianMK-Publish/
 
 theme:
     name: 'material'
-    logo: assets/meta/favicons.png
+    logo: assets/meta/1498282.png
     favicon: assets/meta/favicons.png
     custom_dir: overrides
     font:
