@@ -4,7 +4,6 @@ tags:
   - 🐿️/💦Sport
 aliases: [Praxis der medizinischen Trainingstherapie]
 author: [Frank Diemer, Volker Sutor]
-title: [Praxis der medizinischen Trainingstherapie I]
 ISBN: 978-3-13-164093-2
 ---
 
